@@ -13,7 +13,7 @@ export const designs: Design[] = [
   {
     img: "/static/designs/gir.png",
     label: "GIR - Gestão e Tecnologia Ambiental",
-    duration: "Mar 2020 - Ago 2021",
+    duration: "Fev 2020 - Ago 2020",
   },
   {
     img: "/static/designs/Lenossa.jpg",
