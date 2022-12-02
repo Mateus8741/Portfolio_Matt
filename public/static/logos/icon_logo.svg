@@ -1,0 +1,14 @@
+<svg width="789" height="789" viewBox="0 0 789 789" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_505_2)">
+<rect width="789" height="789" rx="394.5" fill="transparent"/>
+<path d="M540.798 116C299.063 280.215 87.8236 419.5 108.386 494C139.299 606 632 236 684.386 338C725.988 419 60 789 60 789" stroke="#6833e4" stroke-width="50"/>
+<circle cx="601.297" cy="75" r="25" fill="#6833e4"/>
+<circle cx="539.297" cy="117" r="25" fill="#6833e4"/>
+<circle cx="390" cy="394" r="250" fill="#0d0d0d"/>
+</g>
+<defs>
+<clipPath id="clip0_505_2">
+<rect width="789" height="789" rx="394.5" fill="white"/>
+</clipPath>
+</defs>
+</svg>
