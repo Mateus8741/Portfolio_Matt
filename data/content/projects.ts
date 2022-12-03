@@ -27,7 +27,7 @@ const projects: Project[] = [
     tags: ["React Native", "Native Base", "Axios"],
   },
   {
-    id: 5,
+    id: 3,
     title: "Nlw Copa / Web",
     desc: "Marque seus jogos da copa com amigos.",
     img: "https://s3-alpha.figma.com/hub/file/2546624899/29c09c86-896b-4aad-93a0-634098c64e43-cover.png",
@@ -45,13 +45,31 @@ const projects: Project[] = [
     tags: ["Next", "Tailwind", "Yarn"],
   },
   {
-    id: 3,
+    id: 5,
+    title: "ToDo List",
+    desc: "Lista de tarefas.",
+    img: "https://user-images.githubusercontent.com/62652109/204897079-743c9d12-0c7f-4d36-a6a3-8f09c4e44f37.png",
+    link: 'https://desafio-01-ignite-2022-one.vercel.app',
+    github: "https://github.com/Mateus8741/desafio_01_ignite_2022",
+    tags: ["Vite", "Typescript"],
+  },
+  {
+    id: 6,
     title: "Steevanz_test",
     desc: "Venda seus cursos online.",
     img: "https://user-images.githubusercontent.com/62652109/205197479-039acc20-f869-4cd8-a292-23837ba1416b.png",
     link: "https://test-steevanz-dtp4qa49f-mateus8741.vercel.app",
     github: "https://github.com/Mateus8741/test_Steevanz",
     tags: ["Angular", "Html", "SCSS", "API"],
+  },
+  {
+    id: 7,
+    title: "Post_list",
+    desc: "Exibição de postagens de um blog",
+    img: "https://user-images.githubusercontent.com/62652109/203363418-9376aca4-448c-41b3-86b4-1ebde22a5b1d.png",
+    link: "https://post-list-orpin.vercel.app",
+    github: "https://github.com/Mateus8741/post_list",
+    tags: ["Vite", "Typescript", "Axios", "Tailwind"],
   },
 ];
 
