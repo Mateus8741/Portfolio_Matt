@@ -5,6 +5,7 @@ class MyDocument extends Document {
     return (
       <Html lang="en">
         <Head>
+          <link rel="shortcut icon" href="/favicon.png" />
           <link
             rel="apple-touch-icon"
             sizes="180x180"
@@ -22,7 +23,7 @@ class MyDocument extends Document {
             sizes="16x16"
             href="/static/logos/logo_no_text.svg"
           />
-          <link rel="manifest" href="/static/logos/icon_logo.svg" />
+          <link rel="manifest" href="/static/favicon/site.webmanifest" />
         </Head>
         <body>
           <Main />
